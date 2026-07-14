@@ -154,34 +154,6 @@ Scripts para automatizar:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=4ndres130n&show_icons=true&locale=es&hide_border=true" alt="Estadísticas de GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndres130n&layout=compact&locale=es&hide_border=true" alt="Lenguajes más utilizados"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=4ndres130n&locale=es&hide_border=true" alt="Racha de contribuciones"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=4ndres130n\&hide_border=true)](https://github.com/4ndres130n)
-
-</div>
-
----
-
 ## 🤝 Colaboraciones
 
 Estoy interesado en colaborar en proyectos relacionados con:
@@ -199,7 +171,7 @@ Estoy interesado en colaborar en proyectos relacionados con:
 ## 📫 Contacto
 
 * **GitHub:** [github.com/4ndres130n](https://github.com/4ndres130n)
-* **Correo:** [andres130n@gmail.com](mailto:andres130n@gmail.com)
+* **Correo:** [andres130n@protonmail.com](mailto:andres130n@protonmail.com)
 * **Ubicación:** Ecuador
 
 ---
